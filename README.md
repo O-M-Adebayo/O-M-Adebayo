@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwasegun Adebayo
-- 👀 I’m interested in using various programming languages to solve research and development problems.
-- 🌱 I have experience in Python and R programming languages.
+- 👀 I’m interested in using Python and its frameworks (Flask and Django) to solve research and development problems.
+- 🌱 I have experience in Python, R, Machine/Deep Learning, TensorFlow, PyTorch, Keras.
 - 💞️ I’m looking to collaborate on projects relating to research and development.
 - 📫 How to reach me (https://www.linkedin.com/in/oluwasegun-m-adebayo-11960150/)
 
